@@ -21,13 +21,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'local' );
+define( 'DB_NAME', 'legionde_hip' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'legionde' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'L3gion.534466' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
